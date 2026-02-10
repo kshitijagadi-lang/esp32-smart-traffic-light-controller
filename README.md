@@ -49,7 +49,7 @@ embedded systems concepts.
 
 ## Simulation
 Wokwi Simulation Link:  
-👉 (add link here)
+👉 (https://wokwi.com/projects/455595631299472385)
 
 ---
 
